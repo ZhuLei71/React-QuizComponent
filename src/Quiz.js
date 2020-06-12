@@ -5,11 +5,9 @@ let quizData = require('./quiz_data.json');
 class Quiz extends React.Component {
     render() {
         Return (
-            <div>
-                Quiz
-            </div>
-        );
+            <div>Quiz</div>
+        )
     } 
 }
 
-export default Quiz;
+export default Quiz
